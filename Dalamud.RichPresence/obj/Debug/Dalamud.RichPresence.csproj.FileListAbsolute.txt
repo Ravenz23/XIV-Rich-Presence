@@ -1,0 +1,5 @@
+C:\Users\igork\OneDrive\Área de Trabalho\Code\XIV_RichPresence\Dalamud.RichPresence\obj\Debug\Dalamud.RichPresence.csproj.AssemblyReference.cache
+C:\Users\igork\OneDrive\Área de Trabalho\Code\XIV_RichPresence\Dalamud.RichPresence\obj\Debug\Dalamud.RichPresence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igork\OneDrive\Área de Trabalho\Code\XIV_RichPresence\Dalamud.RichPresence\obj\Debug\Dalamud.RichPresence.AssemblyInfoInputs.cache
+C:\Users\igork\OneDrive\Área de Trabalho\Code\XIV_RichPresence\Dalamud.RichPresence\obj\Debug\Dalamud.RichPresence.AssemblyInfo.cs
+C:\Users\igork\OneDrive\Área de Trabalho\Code\XIV_RichPresence\Dalamud.RichPresence\obj\Debug\Dalamud.RichPresence.csproj.CoreCompileInputs.cache

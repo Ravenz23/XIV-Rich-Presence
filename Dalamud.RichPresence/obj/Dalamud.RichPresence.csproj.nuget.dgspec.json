@@ -1,0 +1,111 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\igork\\OneDrive\\Área de Trabalho\\Code\\XIV_RichPresence\\Dalamud.RichPresence\\Dalamud.RichPresence.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\igork\\OneDrive\\Área de Trabalho\\Code\\XIV_RichPresence\\Dalamud.RichPresence\\Dalamud.RichPresence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\igork\\OneDrive\\Área de Trabalho\\Code\\XIV_RichPresence\\Dalamud.RichPresence\\Dalamud.RichPresence.csproj",
+        "projectName": "Dalamud.RichPresence",
+        "projectPath": "C:\\Users\\igork\\OneDrive\\Área de Trabalho\\Code\\XIV_RichPresence\\Dalamud.RichPresence\\Dalamud.RichPresence.csproj",
+        "packagesPath": "C:\\Users\\igork\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\igork\\OneDrive\\Área de Trabalho\\Code\\XIV_RichPresence\\Dalamud.RichPresence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\igork\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreLockProperties": {
+          "restorePackagesWithLockFile": "true"
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "DalamudPackager": {
+              "target": "Package",
+              "version": "[2.1.7, )"
+            },
+            "DiscordRichPresence": {
+              "target": "Package",
+              "version": "[1.0.175, )",
+              "generatePathProperty": true
+            },
+            "Microsoft.Win32.Registry": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NCalcSync": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.333, )"
+            },
+            "XivCommon": {
+              "target": "Package",
+              "version": "[4.0.0-alpha.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
